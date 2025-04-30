@@ -8,4 +8,4 @@ A passionate Front-End Developer exploring the full stack! 🚀
 - Tailwind CSS, Bootstrap
 - UI/UX, Git, and more!
 
-![
+
